@@ -49,4 +49,4 @@ which can help correct training that is slow or unstable.
 
 ### Results
 Following the above fine tuning, the results for the loss function with training is below.
-
+![png](graph.png)
