@@ -46,3 +46,7 @@ patterns tend to be more robust.
 ### Batch Normalization
 The next special layer we'll look at performs "batch normalization" (or "batchnorm"), 
 which can help correct training that is slow or unstable.
+
+### Results
+Following the above fine tuning, the results for the loss function with training is below.
+
